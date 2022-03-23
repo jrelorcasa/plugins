@@ -1,3 +1,6 @@
+## 0.9.4+17
+
+* Fixed iOS implementation encoding some videos in HEVC and some in MPEG-4 (now all are MPEG-4/H.264).
 ## 0.9.4+16
 
 * Fixes a bug resulting in a `CameraAccessException` that prevents image
